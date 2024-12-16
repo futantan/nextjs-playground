@@ -8,3 +8,6 @@ This is a Next.js project
 - prettier
 - eslint
 - typescript
+- testing
+  - vitest
+  - @testing-library/react
